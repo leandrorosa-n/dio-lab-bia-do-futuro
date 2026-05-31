@@ -64,7 +64,7 @@ flowchart TD
 | Interface | Streamlit |
 | LLM | Ollama (local) |
 | Base de Conhecimento | JSON/CSV com `dados` do cliente |
-| Validação | [ex: Checagem de alucinações] |
+| Validação | Checagem de processo e alucinações |
 
 ---
 
