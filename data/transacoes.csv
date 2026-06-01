@@ -1,11 +1,12 @@
-data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+data,descricao,categoria,valor,icms, pis, cofins,tipo
+2025-10-01,Matéria Prima,Insumo,5000.00,900.00,82.50,380.00,entrada
+2025-10-07,Energia,despesa, 1200.00,216.00,19.80,91.20,entrada 
+2025-10-02,Tênis,atrf,1200.00,216.00,19.80,91.20,saida
+2025-10-03,Bota SRT,calçado,450.00,81.00,7.43,34.20,saida
+2025-10-05,Sapatilha,rasteiras,55.90,10.06,0.92,4.25,saida
+2025-10-07,Meia,algodao,89.00,16.02,1.47,6.76,saida
+2025-10-10,Salto alto,plataforma,120.00,21.60,1.98,9.12,saida
+2025-10-12,Meia ADP,algodao,45.00,8.10,0.74,3.42,saida
+2025-10-15,Tênis OLD,atrf,180.00,32.40,2.97,13.68,saida
+2025-10-20,Sandalha,rasteiras,99.00,17.82,1.63,7.52,saida
+2025-10-25,Mochila,viagem,250.00,45.00,4.13,19.00,saida
