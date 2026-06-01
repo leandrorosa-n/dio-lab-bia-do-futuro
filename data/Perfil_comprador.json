@@ -1,0 +1,23 @@
+{
+  "nome": "João Silva",
+  "idade": 32,
+  "profissao": "Analista de Sistemas",
+  "renda_mensal": 5000.00,
+  "perfil_comprador": "moderado",
+  "objetivo_principal": "comprar itens para o trabalho",
+  "patrimonio_total": 15000.00,
+  "reserva_emergencia_atual": 10000.00,
+  "aceita_risco": false,
+  "metas": [
+    {
+      "meta": "Ter estilo de vestimenta para reunioes de trabalho",
+      "orcamento_real": 1200.00,
+      "prazo": "2026-06"
+    },
+    {
+      "meta": "Vestimenta para eventos",
+      "orcamento_necessario": 1100.00,
+      "prazo": "2027-12"
+    }
+  ]
+}
