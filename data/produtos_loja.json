@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Bota SRT",
+    "categoria": "calçado",
+    "risco": "baixo",
+    "conforto": "medio",
+    "valor": 450.00,
+    "indicado_para": "mulheres que buscam maior protecao no frio"
+  },
+  {
+    "nome": "Sapatilha",
+    "categoria": "rasteiras",
+    "risco": "baixo",
+    "conforto": "baixo",
+    "valor": 55.90,
+    "indicado_para": "Qmulheres que buscam maior praticidade"
+  },
+  {
+    "nome": "Salto alto",
+    "categoria": "plataforma",
+    "risco": "baixo",
+    "conforto": "medio",
+    "valor": 120.00,
+    "indicado_para": "mulheres que buscam melhora no estilo"
+  },
+  {
+    "nome": "Tênis OLD",
+    "categoria": "atrf",
+    "risco": "medio",
+    "conforto": "alto",
+    "valor": 180.00,
+    "indicado_para": "pessoas que buscam conforto em suas atividades diárias"
+  },
+  {
+    "nome": "Tênis",
+    "categoria": "atrf",
+    "risco": "alto",
+    "conforto": "Variável",
+    "valor": 1200.00,
+    "indicado_para": "pessoas que buscam conforto em dias corridos"
+  }
+]
