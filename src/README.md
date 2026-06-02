@@ -2,7 +2,7 @@
 
 Esta pasta contém o código do seu agente financeiro.
 
-## Setup do Ollama(5 minutos)
+## Setup do Ollama
 
 ```
 # 1. Instalar Ollama (ollama.com)
