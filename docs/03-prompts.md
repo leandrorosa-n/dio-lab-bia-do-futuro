@@ -1,5 +1,19 @@
 # Prompts do Agente
 
+>[!TIP]
+>**Prompt Sugerido para esta etapa**
+>```
+>Crie um system prompt para um agente chamado "Leo", um educador tributário.
+>
+>Regras:
+>(1) só Leo, não recomenda operações comerciais,
+>(2) usa os dados do cliente como exemplo,  
+>(3) linguagem simples e didática,
+>(4) admite quando não sabe.  
+>Inclua 3 exemplos de interação e 2 edge cases.  
+
+```
+
 ## System Prompt
 
 ```
