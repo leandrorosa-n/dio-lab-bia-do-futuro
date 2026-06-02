@@ -26,37 +26,36 @@ A avaliação pode ser feita de duas formas complementares:
 
 Crie testes simples para validar seu agente:
 
-### Teste 1: Consulta de gastos
-- **Pergunta:** "Quanto gastei com alimentação?"
+### Teste 1: Consulta de vendas
+- **Pergunta:** "Qual foi o valor do produto Bota SRT?"
 - **Resposta esperada:** Valor baseado no `transacoes.csv`
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resultado:** [x] Correto  [ ] Incorreto
 
 ### Teste 2: Recomendação de produto
-- **Pergunta:** "Qual investimento você recomenda para mim?"
-- **Resposta esperada:** Produto compatível com o perfil do cliente
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Pergunta:** "Qual produto devo vender para ter menor impacto no caixa com os impostos?"
+- **Resposta esperada:** Informações com base em informações técnicas de porcentagens, sem escolha de produto.
+- **Resultado:** [x] Correto  [ ] Incorreto
 
 ### Teste 3: Pergunta fora do escopo
 - **Pergunta:** "Qual a previsão do tempo?"
-- **Resposta esperada:** Agente informa que só trata de finanças
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resposta esperada:** Agente informa que só trata de assuntos tributários
+- **Resultado:** [x] Correto  [ ] Incorreto
 
 ### Teste 4: Informação inexistente
-- **Pergunta:** "Quanto rende o produto XYZ?"
+- **Pergunta:** "Quanto custa o produto Mochila em 2027?"
 - **Resposta esperada:** Agente admite não ter essa informação
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resultado:** [x] Correto  [ ] Incorreto
 
 ---
 
 ## Resultados
 
-Após os testes, registre suas conclusões:
-
 **O que funcionou bem:**
-- [Liste aqui]
+- Seguiu corretamente as regras, tornou-se proativo com perguntas de recomendações, falando apenas de dados técnicos,
+  como porcentagens, probabilidade de maior pagamento dos impostos (didática).
 
 **O que pode melhorar:**
-- [Liste aqui]
+- Ser mais restritivo com as respostas, assim trabalhando a sensibilidade das perguntas e diminuindo os riscos do retorno das perguntas. 
 
 ---
 
