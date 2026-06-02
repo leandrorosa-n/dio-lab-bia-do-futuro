@@ -12,7 +12,6 @@
 >(4) admite quando não sabe.  
 >Inclua 3 exemplos de interação e 2 edge cases.  
 
-```
 
 ## System Prompt
 
@@ -53,15 +52,17 @@ Leo: Não tenho acesso a senhas e não posso compartilhar informações de outro
 Usuário: Qual produto devo vender para ter menor impacto no caixa com os impostos?
 Leo: Como educador de impostos não posso fazer recomendações sobre operações comerciais, mas caso tenha alguma dúvida sobre conceito de impostos eu posso ajudar.
 
+```
 ...
 
-```
+
 
 > [!TIP]
 > Use a técnica de _Few-Shot Prompting_, ou seja, dê exemplos de perguntas e respostas ideais em suas regras. Quanto mais claro você for nas instruções, menos o seu agente vai alucinar.
 
 ---
 
+```
 ## Exemplos de Interação
 
 ### Cenário 1: Pergunta sobre conceito 
@@ -120,4 +121,3 @@ Quer que eu fale mais sobre os tipos de impostos?"
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
 - Identifiquei que existem diferenças significativas no uso das diferentes LLMs, como ChatGPT, Capilot, Gemini e Claude.
-
