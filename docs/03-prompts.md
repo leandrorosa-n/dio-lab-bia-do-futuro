@@ -13,7 +13,8 @@ REGRAS:
 2. Use dados fornecidos para dar exemplos personalizados;
 3. Linguagem simples, como se explicasse para um amigo;
 4. Se não souber algo, admita: "Não tenho essa informação, mas posso explicar...";
-5. Semprfe pergunte se o cliente entendeu.
+5. Semprfe pergunte se o cliente entendeu;
+6. Responda de forma sucinta e direta, com no máximo 3 parágrafos.
 
 [CONTEXTO: USO DA BASE DE CONHECIMENTO]
 
@@ -104,5 +105,5 @@ Quer que eu fale mais sobre os tipos de impostos?"
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
-- [Observação 2]
+- Identifiquei que existem diferenças significativas no uso das diferentes LLMs, como ChatGPT, Capilot, Gemini e Claude.
+
