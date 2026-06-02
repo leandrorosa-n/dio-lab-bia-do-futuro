@@ -47,6 +47,20 @@ with open('data/Perfil_comprador.json', 'r', encoding='utf-8') as f:
 
 with open('data/produtos_loja.json', 'r', encoding='utf-8') as f:
     produtos = json.load(f)
+
+----
+
+Outro exemplo
+
+import json
+import pandas as pd
+
+# ========== CARREGAR DADOS ==========
+perfil = json.load(open('./data/perfil_comprador.json'))
+transacoes = pd.read_csv('./data/transacoes.csv')
+historico = pd.read_csv('./data/historico_atendimento.csv')
+produtos = json.load(open('./data/produtos_loja.json'))
+
 ```
 
 ### Como os dados são usados no prompt?
